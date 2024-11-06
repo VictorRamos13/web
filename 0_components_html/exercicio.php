@@ -4,7 +4,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sadan - O Imparável</title>
+    <title>SADAN - O IMPARAVEL</title>
     </head>
 
     <body height="100%">
@@ -15,7 +15,7 @@
                     <table border="1px width="800px" height="100%" align="center">
                         <tr>
                             <td colspan="2" height="15%">
-                                <img src="sadan_img/lingudo.jpeg" height="100px" width="100%">
+                                <img src="../dawgs_img/sadan_img/lingudo.jpeg" height="100px" width="100%">
                             </td>
                         </tr>
                         <tr>

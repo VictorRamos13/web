@@ -21,12 +21,12 @@ if (isset($_SESSION['erro']))
 
 if (isset($_SESSION['login']))
 {
-	$mensagem = 'Voc&ecirc; j&aacute; est&aacute logado no sistema.';
-	$mensagem .= '</br></br>
-	<a href="pagina1.php">P&aacutegina 1</a>
-	<a href="pagina2.php">P&aacutegina 2</a>
-	<a href="pagina3.php">P&aacutegina 3</a><br><br>
-	<a href="logout.php">SAIR DO SISTEMA</a><br><br>';
+	// $mensagem = 'Voc&ecirc; j&aacute; est&aacute logado no sistema.';
+	// $mensagem .= '</br></br>
+	// <a href="pagina1.php">P&aacutegina 1</a>
+	// <a href="pagina2.php">P&aacutegina 2</a>
+	// <a href="pagina3.php">P&aacutegina 3</a><br><br>
+	// <a href="logout.php">SAIR DO SISTEMA</a><br><br>';
 }
 
 ?>
