@@ -16,9 +16,9 @@
 </head>
 <body>
 
-    <h2>Bem vindo Crach&aacute; M&oacute;vel, faça seu crach&aacute; por aqui!</h2>
+    <h2 align="center">Fazedor de crach&aacute;</h2>
   
-        <table border="1px" width="15%" cellspacing="4px" cellpadding="5px">
+        <table border="1px" width="15%" cellspacing="4px" cellpadding="5px" align="center">
                 
             <tr>
                 <td width="15%">Nome:</td>

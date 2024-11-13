@@ -19,7 +19,7 @@
 <body> 
 
 <?php
-    echo '<h2 align="center">T&aacute; na m&atilde;o seu crach&aacute; meu patr&atilde;o</h2>';
+    echo '<h2 align="center">Crach&aacute;:</h2>';
         echo '<table border="1px" cellspacing="4px" cellpadding="5px" align="center" width="800px">';
         
             echo '<tr>';
